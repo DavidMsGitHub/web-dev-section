@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script type="text/javascript">
+        function goToHome() {
+            window.location.href = "{{ url_for('home') }}";
+        }
+    </script>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway" rel="stylesheet">
+    <link rel="stylesheet" href="../static/css/styles.css">
+</head>
+<body>
+<div class="wrapper">
+    <div class="top">
+        <div onclick="goToHome()" style="cursor: pointer;" class="title"><h1>{{ all_posts[post_number]["title"] }}</h1></div>
+           </div>
+        <div class="content">
+            <div class="card">
+                <h2>{{ all_posts[post_number]["subtitle"] }}</h2>
+                <p>{{ all_posts[post_number]["body"] }}</p>
+            </div>
+
+    </div>
+</div>
+</body>
+<footer>
+    <p>Made with <3</p>
+</footer>
+</html>
