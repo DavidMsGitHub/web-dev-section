@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+
+{% extends "Bootstrap/base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+<html>
+	<head>
+		{% block title %} Log In {% endblock %}
+	</head>
+	{% block content %}
+	<body>
+        <div class="container">
+			<h1>Login</h1>
+        <!-- This is where our form will go. -->
+			{{ wtf.quick_form(form, novalidate=True) }}
+        </div>
+	</body>
+{% endblock %}
+</html>
