@@ -12,12 +12,12 @@
  */
 
 .gradient-background {
-  background: linear-gradient(300deg, #8504f8, #b912fb, #0059ff);
+  background: linear-gradient(300deg, #8504f8, #b912fb, #ffffff);
   background-size: 250% 250%;
   border-style: dot-dash;
   outline: black;
   outline-width: 10px;
-  animation: gradient-animation 4s ease infinite;
+  animation: gradient-animation 2s ease infinite;
   border-radius: 10%;
 }
 

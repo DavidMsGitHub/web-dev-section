@@ -5,36 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1be5c356-504b-4b09-8cde-952055272471" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/web-dev-section.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 55/args-kwargs-test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 55/hello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 55/higher-lower-game/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 57/hi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 57/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 57/templates/blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 57/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-56/angela's portfolio/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-56/angela's portfolio/static/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-56/angela's portfolio/static/styles/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-56/angela's portfolio/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-56/opagangnam/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-56/opagangnam/static/images/avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-56/opagangnam/static/images/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-56/opagangnam/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-59 BLOG CAPSTONE/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-59 BLOG CAPSTONE/static/assets/img/about-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-59 BLOG CAPSTONE/static/assets/img/home-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-59 BLOG CAPSTONE/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-59 BLOG CAPSTONE/templates/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-59 BLOG CAPSTONE/templates/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-59 BLOG CAPSTONE/templates/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-59 BLOG CAPSTONE/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-59 BLOG CAPSTONE/templates/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-60 HTML-FORMS/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-60 HTML-FORMS/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-61/002 Starting-Files-flask-secrets/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-63 SQLITE/Learning SQLITE/zdbanda.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-59 BLOG CAPSTONE/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-59 BLOG CAPSTONE/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-59 BLOG CAPSTONE/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/day-59 BLOG CAPSTONE/static/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-59 BLOG CAPSTONE/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/day-59 BLOG CAPSTONE/templates/contact.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,40 +51,78 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.blog.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hello.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.server.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/davitmirzoevi/PycharmProjects/web-dev-section/day 55/higher-lower-game&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.blog.html.executor": "Run",
+    "JavaScript Debug.cafes.html.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.login.html.executor": "Run",
+    "Python.alchemy.executor": "Run",
+    "Python.hah.executor": "Run",
+    "Python.hello.executor": "Run",
+    "Python.hi.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.scratch.executor": "Run",
+    "Python.server.executor": "Run",
+    "Python.zdbanda.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/davitmirzoevi/PycharmProjects/web-dev-section/day 55/higher-lower-game",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "copyright",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlite"
+    ],
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/day 55/higher-lower-game" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/day-59 BLOG CAPSTONE/static/assets/img" />
-      <recent name="$PROJECT_DIR$/day-59 BLOG CAPSTONE" />
-      <recent name="$PROJECT_DIR$/day-59 BLOG CAPSTONE/templates" />
-      <recent name="$PROJECT_DIR$/day-59 BLOG CAPSTONE/static" />
-      <recent name="$PROJECT_DIR$/day 57" />
+      <recent name="$PROJECT_DIR$/day-64" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/day-63 SQLITE/002 Starting-Files-library-start" />
+      <recent name="$PROJECT_DIR$/day-63 SQLITE/Learning SQLITE" />
+      <recent name="$PROJECT_DIR$/instance" />
     </key>
   </component>
   <component name="RunManager">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web-dev-section/day 57/blog-templating-start/templates/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="web-dev-section" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day-60 HTML-FORMS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day-60 HTML-FORMS/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -134,6 +150,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Python.server" />
       </list>
@@ -164,10 +181,36 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="GitHub.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/web_dev_section$main.coverage" NAME="main Coverage Results" MODIFIED="1720951741405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day 57/blog-templating-start" />
+    <SUITE FILE_PATH="coverage/web_dev_section$hah.coverage" NAME="hah Coverage Results" MODIFIED="1721215170984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day-62/001 Starting-Files-coffee-and-wifi/templates" />
+    <SUITE FILE_PATH="coverage/web_dev_section$main.coverage" NAME="main Coverage Results" MODIFIED="1721334899755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day-64/002 Starting-Files-movie-project-start" />
     <SUITE FILE_PATH="coverage/web_dev_section$hello.coverage" NAME="hello Coverage Results" MODIFIED="1720687480301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/web_dev_section$server.coverage" NAME="server Coverage Results" MODIFIED="1721116771996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day-59 BLOG CAPSTONE" />
+    <SUITE FILE_PATH="coverage/web_dev_section$alchemy.coverage" NAME="alchemy Coverage Results" MODIFIED="1721299219429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day-63 SQLITE/Learning SQLITE" />
+    <SUITE FILE_PATH="coverage/web_dev_section$server.coverage" NAME="server Coverage Results" MODIFIED="1721155972691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day-59 BLOG CAPSTONE" />
+    <SUITE FILE_PATH="coverage/web_dev_section$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1721334617334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/web_dev_section$hi.coverage" NAME="hi Coverage Results" MODIFIED="1720946798724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day 57" />
+    <SUITE FILE_PATH="coverage/web_dev_section$zdbanda.coverage" NAME="zdbanda Coverage Results" MODIFIED="1721302160981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day-63 SQLITE/Learning SQLITE" />
   </component>
 </project>
